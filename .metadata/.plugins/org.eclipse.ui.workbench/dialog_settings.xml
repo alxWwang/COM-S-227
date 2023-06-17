@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="true"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/wang/Documents/ISU/CS/COM S 227/Assignment1"/>
+			<item value="/Users/wang/Downloads"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/assignment 4"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/assignment 4/COMS227_HW4_S23_skeleton"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/assignment3"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/assignment3/COMS227_HW3_S23_skeleton 2"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/lab7"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/lab6"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/miniAssignment"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/assignment 2"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/assignment 2/COMS227_HW2_S23_skeleton/src/api"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/assignment 2/COMS227_HW2_S23_skeleton/src/hw2"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/lab4"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/lab3"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/assignment1"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives"/>
+			<item value="/Users/wang/Documents/ISU/COM S 227/##archives/lab2 files"/>
+		</list>
+	</section>
+</section>
